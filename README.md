@@ -202,25 +202,6 @@ tags: []
 
 By following these guidelines, I can effectively navigate and utilize Visual Studio Code for my development needs.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Questions
 
 # SE-Assignment-5
